@@ -41,7 +41,7 @@ The synthesized studies were categorized across mutually exclusive primary metho
 | **Other Hybrid Approaches (Hibrit Yöntemler)** | **2%** | 6 | Setzu et al. (2021); Moradi & Samwald (2021) |
 | **Total Mutually Exclusive Synthesis** | **100%** | **298** | *Normalized Primary Baseline* |
 
----
+> 📥 **Tam Metin Arşivi (n = 298 PDF):** İncelenen tüm çalışmaların PDF derlemesine doğrudan erişmek için [buraya tıklayarak Google Drive arşivini açabilirsiniz](https://drive.google.com/drive/folders/1nEuREV1qqGD0RuavsNkTo-YXnQFk75Gt?usp=sharing).
 
 ## 📁 Repository Structure
 
@@ -50,16 +50,5 @@ The synthesized studies were categorized across mutually exclusive primary metho
 ├── XAI_SLR_298_Data_Extraction.xlsx       # Comprehensive dataset of all 298 analyzed papers
 ├── XAI_SLR_298_Data_Extraction.csv        # Open-science CSV export
 │
-├── 📁 figures/                            # High-resolution manuscript figures (300 DPI)
-│   ├── figure1_prisma.png
-│   ├── figure6_stakeholders.png
-│   └── figure7_evaluation_matrix.png
-│
-├── 📁 01_Detailed_Synthesis/              # Coding manuals & statistical procedures
-│   ├── Coding_Protocol_Guide.md
-│   └── Inter_Rater_Reliability_Kappa.pdf
-│
-└── 📁 02_Included_Papers_PDFs/            # Reference archive of the 298 analyzed papers
-    ├── Study_001_Lundberg2017.pdf
-    ├── Study_002_Ribeiro2016.pdf
-    └── ...
+
+
